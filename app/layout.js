@@ -13,11 +13,11 @@ export const metadata = {
   openGraph:{
     images: [
       {
-        url: "/metalogo.jpeg", 
+        url: `${process.env.NEXT_PUBLIC_BASE_URL}/metalogo.jpeg`, 
       
       },
       {
-        url: "/metalogo.jpeg", 
+        url: `${process.env.NEXT_PUBLIC_BASE_URL}/metalogo.jpeg`, 
       
       },
     ],
@@ -28,7 +28,7 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     image: {
-      url: "/metalogo.jpeg",
+      url: `${process.env.NEXT_PUBLIC_BASE_URL}/metalogo.jpeg`,
     },
   },
   creator:'Naman Arora'
