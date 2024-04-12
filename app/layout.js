@@ -21,7 +21,7 @@ export const metadata = {
       },
     ],
     title: "FileFlow",
-
+  url:`${process.env.NEXT_PUBLIC_BASE_URL}`
     
   },
   twitter: {
