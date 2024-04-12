@@ -12,8 +12,8 @@ export const metadata = {
   openGraph:{
     images: [
       {
-        url: "/favicon.ico", 
-    
+        url: "/metalogo.jpeg", 
+      
       },
       {
         url: "/metalogo.jpeg", 
