@@ -16,7 +16,7 @@ export const metadata = {
     
       },
       {
-        url: "/logo.png", 
+        url: "/metalogo.jpeg", 
       
       },
     ],
