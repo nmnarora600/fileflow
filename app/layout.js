@@ -27,7 +27,7 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     images: {
-      url: "/metalogo.png",
+      url: "/metalogo.jpeg",
     },
   },
   creator:'Naman Arora'
