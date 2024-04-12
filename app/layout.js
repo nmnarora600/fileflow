@@ -22,12 +22,12 @@ export const metadata = {
     ],
     title: "FileFlow",
 
-    url: "https://namanarora.in",
+    
   },
   twitter: {
     card: "summary_large_image",
     images: {
-      url: "/logo.png",
+      url: "/metalogo.png",
     },
   },
   creator:'Naman Arora'
