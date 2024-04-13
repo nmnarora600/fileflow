@@ -22,7 +22,7 @@ const mail= render(EmailTemplate({ senderName:details.userName ,fileUrl:details.
     const mailOptions = {
       from:"k1vikky@gmail.com",
       to: details.receiver,
-      subject: 'Fileflow - Test Mail',
+      subject: 'Fileflow - One File Received',
       html: mail,
     
     };
