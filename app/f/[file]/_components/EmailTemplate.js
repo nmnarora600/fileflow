@@ -30,7 +30,7 @@ Html,Head,Body,Preview,Img,
             <Section style={content} className="relative ">
              
                 
-  <img src={'https://firebasestorage.googleapis.com/v0/b/fileflow-saas.appspot.com/o/uploads%2Fjoinlogo.jpeg?alt=media&token=37b05ba1-7027-4882-a9d9-35aba0902166'} style={{width:'100%'}} className="w-full object-cover h-10"/>
+  <img src={'https://firebasestorage.googleapis.com/v0/b/fileflow-saas.appspot.com/o/uploads%2Fjoinlogo.jpeg?alt=media&token=b9e80be0-2a65-4eea-a9ec-bca3b72fe2d1'} style={{width:'100%'}} className="w-full object-cover h-10"/>
 
                
   
